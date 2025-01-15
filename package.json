@@ -1,5 +1,5 @@
 {
-  "name": "etf",
+  "name": "gridscore",
   "scripts": {
     "postinstall": "patch-package",
     "start": "snowpack dev",
@@ -48,7 +48,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/hushicai/ETF.git"
+    "url": "https://github.com/geoxing/gridscore.git"
   },
   "license": "MIT"
 }
