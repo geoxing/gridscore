@@ -35,6 +35,8 @@ jobs:
       uses: actions/setup-node@v3
       with:
         node-version: '16' # 或者你使用的其他 Node.js 版本
+    - name: Ignore SSL certificate check
+      run: npm config set strict-ssl false
     - name: Install dependencies
       run: npm ci # 如果使用 yarn，则用 yarn install --frozen-lockfile
     - name: Build with Snowpack
