@@ -1,6 +1,8 @@
 # gridscore
 
 based on etf saved world
+
+
 https://geoxing.github.io/gridscore/
 
 
