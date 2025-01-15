@@ -1,11 +1,11 @@
-# 网格交易策略
+# gridscore
 
-基于`长赢指数投资`公众号相关文章生成网格交易策略。
-
+based on etf saved world
+https://geoxing.github.io/gridscore/
 https://hushicai.github.io/ETF/
 
-![Lint](https://github.com/hushicai/ETF/workflows/Lint/badge.svg)
-![Release](https://github.com/hushicai/ETF/workflows/Release/badge.svg)
+![Lint](https://github.com/geoxing/gridscore/workflows/Lint/badge.svg)
+![Release](https://github.com/geoxing/gridscore/workflows/Release/badge.svg)
 
 ## 本地开发
 
